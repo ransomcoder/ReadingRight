@@ -25,7 +25,7 @@ SECRET_KEY = 'y%k@2-%4l_t7jngk1_mr=kx*0k@=z5+besnz#s&o1=tvg@_*-!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ransomcoder.pythonanywhere.com']
 
 
 # Application definition
